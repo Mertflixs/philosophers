@@ -49,4 +49,3 @@ Example
 ```sh
 ./philo 4 800 200 200
 ```
-<img src="https://github.com/csalihburak/Philosophers/blob/master/images/image.png" />
